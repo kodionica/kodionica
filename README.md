@@ -12,15 +12,12 @@ We focus on:
 - API integrations and backend-heavy WordPress projects
 - refactoring and long-term maintenance of legacy codebases
 
-
 ### Founder
 
 Kodionica is founded and led by Stefan Jocić, a full-stack developer with 7+ years
 of professional experience working with WordPress, PHP and JavaScript ecosystems.
 
-
-
-## Technologies and frameworks that I use
+## Technologies and frameworks
 
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff" />
